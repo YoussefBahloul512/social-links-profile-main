@@ -1,0 +1,15 @@
+blog-preview-card-main:
+    assets:
+        fonts:
+            (some fonts)
+        images:
+            (some images)
+    design:
+        (some .jpg)
+    .gitignore
+    index.html
+    preview.jpg
+    README-template.made
+    README.md
+    style-guide.md
+    style.css
